@@ -1,0 +1,149 @@
+/*#id              .classe*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+  }
+  
+body,ul{
+    background-color: #222222;
+    text-decoration:none;
+    list-style: none;
+    padding: 0vw;
+    font-family: 'Inter', sans-serif;
+}
+
+li{
+    text-decoration:none;
+    list-style: none;
+    padding: 1vw;
+    font-family: 'Inter', sans-serif;
+}
+.header{
+    display:flex;
+    background-color: #222222;
+    padding: 0vw;
+    align-items: center;
+}
+#logo{
+display: flex;
+width: 40vw;
+height: 15vh;
+left: 1vh;
+right: 1vh;
+top: 10vw;
+}
+a{
+    
+    color: #F4C430;
+}
+#titulo{
+    font-family: 'Inter', sans-serif;
+    color: #F4C430;
+    width: 30vw;
+}
+
+#nav{
+    display: inline-flex;
+
+}
+
+.cat{
+    background-color: #F4C430;
+    text-decoration: none;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+
+.line{
+    background-color: #F4C430;
+    height: 0.5vh;
+    border: none;
+}
+.anuncio{
+
+    background-color: #000;
+    display: flex;
+    width: 60vw;
+    height: 60vh;
+    margin: auto;
+    align-items: center;
+}
+
+#foto {
+    display: flex;
+    padding: 0vw;
+    width: 30vw;
+    height: 60vh;
+    align-items: center;
+    margin: auto;
+}
+.sus{
+
+    display: flex;
+    height: 39vh;
+    width: 16vw;
+    display: inline;
+    margin-left: 5vw;
+    margin-top: 5vh;
+    align-items: center;
+
+}
+#p{
+    color:#F4C430;
+}
+.links{
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    display: flex;
+    height: 6vh;
+    width: 20vw;
+    margin-left: 5vw;
+    align-items: center;
+
+}
+.in{
+    margin: 0vw;
+    height: 44vh;
+    width: 21vw;
+    display: inline-block;
+    
+}
+.h1{
+    color: #F4C430;
+}
+#jogos{
+    color: #fff;
+    border: 0vh;
+}
+
+
+
+
+
+h2{
+    color: #FFF;
+    margin: 1vw;
+    align-items: center;
+    text-align: center;
+}
+p{
+    color: #FFF;
+    margin-left: 1vw;
+}
+h1{
+    margin-left: 1vw;
+    color: #F4C430;
+}
+
+
+
+dv {
+    border: #000 0.5vh solid;
+    display: block;
+    margin-bottom: 3vh;
+    
+}

@@ -1,0 +1,451 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+@media (min-width: 1441px) and (max-width: 2645px) { /*Perfeito*/
+
+    
+    #logo {
+        min-inline-size: auto;
+        height: 18vh;
+        width: 9vw;
+        margin-left: 2vw;
+        margin-top: 2vh;
+    }
+
+    #titulo {
+        font-family: 'Inter', sans-serif;
+        color: #F4C430;
+        display: flex;
+        align-items: center;
+        margin-inline: 10vh;
+    }
+
+       .in {
+        display: inline-table;
+        
+       }
+       .sus{
+           width: 40vw;
+       }
+       .links{
+           width: 40vw;
+       }
+
+       .anuncio{
+
+        color: aliceblue;
+        width: 60vw;
+        height: 60vh;
+        
+       }
+       .foto{
+
+        width: 40vw;
+
+       }
+
+img{
+        min-inline-size: -webkit-fill-available;
+        width: 0vw;
+    }
+dv{
+    color: #000;
+    margin-top: 1vh;
+}
+h2{
+    font-size: 2vw;
+}
+h1{
+    font-size: 3vw;
+}
+p{
+    font-size: 2vw;
+}
+      }
+
+/*1440 A 2560*/
+
+
+
+@media (min-width: 730px) and (max-width: 1440px) { /*Perfeito*/
+
+    
+    #logo {
+        min-inline-size: auto;
+        height: 18vh;
+        width: 16vw;
+    }
+
+    #titulo {
+        font-family: 'Inter', sans-serif;
+        color: #F4C430;
+        display: flex;
+        align-items: center;
+        margin-inline: 10vh;
+    }
+
+       .in {
+        display: inline-table;
+        
+       }
+       .sus{
+           width: 40vw;
+       }
+       .links{
+           width: 40vw;
+       }
+
+       .anuncio{
+
+        color: aliceblue;
+        width: 60vw;
+        height: 60vh;
+        
+       }
+       .foto{
+
+        width: 40vw;
+
+       }
+
+img{
+        min-inline-size: -webkit-fill-available;
+        width: 0vw;
+    }
+dv{
+    color: #000;
+    margin-top: 1vh;
+}
+h2{
+    font-size: 2vw;
+}
+h1{
+    font-size: 3vw;
+}
+      }
+
+/*730 A 1440*/
+
+
+@media (min-width: 403px) and (max-width: 729px) {
+
+    
+    #logo {
+        min-inline-size: auto;
+        height: 13vh;
+        width: 20vw;
+    }
+
+
+    #titulo {
+        font-family: 'Inter', sans-serif;
+        color: #F4C430;
+        display: flex;
+        align-items: center;
+        margin-inline: 10vh;
+    }
+
+       .in {
+        display: inline-table;
+        
+       }
+       .sus{
+           width: 40vw;
+       }
+       .links{
+           width: 40vw;
+       }
+
+       .anuncio{
+
+        color: aliceblue;
+        width: 60vw;
+        height: 60vh;
+        
+       }
+       .foto{
+
+        width: 40vw;
+
+       }
+
+img{
+    min-inline-size: -webkit-fill-available;
+}
+dv{
+    color: #000;
+    width: 96vw;
+    margin-top: 1vh;
+}
+h2{
+    font-size: 2vw;
+}
+h1{
+    font-size: 3vw;
+}
+p{
+    font-size: 2vw;
+}
+
+      }
+
+   @media (min-width: 371px) and (max-width: 402px) {
+
+    #logo {
+        min-inline-size: auto;
+        height: 10vh;
+        width: 16vw;
+    }
+
+    #titulo {
+        font-family: 'Inter', sans-serif;
+        color: #F4C430;
+        display: flex;
+        align-items: center;
+        margin-inline: 12vh;
+    }
+    
+
+    #foto {
+        display: flex;
+        padding: 0vw;
+        width: 64vw;
+        height: 40vh;
+        align-items: center;
+        margin: auto;
+    }
+    .line{
+        background-color: #F4C430;
+        height: 0.5vh;
+        border: none;
+    }
+
+    .in {
+     display: grid;
+     grid-column: auto;
+     
+    }
+    .sus{
+        width: 70vw;
+    }
+    .links{
+        width: 70vw;
+    }
+
+    .anuncio {
+        color: aliceblue;
+        width: 85vw;
+        height: 45vh;
+    }
+    
+       .foto{
+    
+        width: 35vw;
+    
+       }
+    
+
+img{
+        min-inline-size: -webkit-fill-available;
+        width: 0vw;
+    }
+
+dv{
+    color: #000;
+    width: 103vw;
+    margin-top: 1vh;
+}
+h2{
+    font-size: 3vw;
+}
+h1{
+    font-size: 3vw;
+}
+p{
+    font-size: 3vw;
+}
+   }
+
+
+
+   
+@media (min-width: 100px) and (max-width: 370px) { /*TA bom (aceitavel*/
+
+
+    #logo {
+        min-inline-size: auto;
+        height: 10vh;
+        width: 22vw;
+    }
+
+
+    #titulo {
+        font-family: 'Inter', sans-serif;
+        color: #F4C430;
+        display: flex;
+        align-items: center;
+        margin-inline: 12vh;
+    }
+    
+    #foto {
+        display: flex;
+        padding: 0vw;
+        width: 64vw;
+        height: 40vh;
+        align-items: center;
+        margin: auto;
+        
+    }
+    
+
+    .in {
+     display: grid;
+     grid-column: auto;
+     
+    }
+    .sus{
+        width: 70vw;
+    }
+    .links{
+        width: 70vw;
+    }
+
+    .anuncio {
+        color: aliceblue;
+        width: 85vw;
+        height: 45vh;
+    }
+    
+       .foto{
+    
+        width: 35vw;
+    
+       }
+
+
+img{
+        min-inline-size: -webkit-fill-available;
+        width: 0vw;
+    }
+dv{
+    color: #000;
+    width: 375vw;
+    margin-top: 1vh;
+}
+h2{
+    font-size: 14vw;
+}
+h1{
+    font-size: 25vw;
+}
+p{
+    font-size: 14vw;
+}
+    
+
+   }
+   @media (min-width: 320px) and (max-width: 370px) /*TA bom (aceitavel*/{
+
+    dv{
+        width: 120vw;
+        margin-top: 1vh;
+    }
+    h2{
+        font-size: 4vw;
+    }
+    h1{
+        font-size: 5vw;
+       
+   }
+   p{
+    font-size: 4vw;
+   }
+
+}
+
+
+
+
+
+   @media (min-width: 50px) and (max-width: 99px) {
+
+    
+    #logo {
+        min-inline-size: auto;
+        height: 13vh;
+        width: 20vw;
+    }
+
+
+    #titulo {
+        font-family: 'Inter', sans-serif;
+        color: #F4C430;
+        display: flex;
+        align-items: center;
+        margin-inline: 12vh;
+    }
+    
+    #foto {
+        display: flex;
+        padding: 0vw;
+        width: 64vw;
+        height: 40vh;
+        align-items: center;
+        margin: auto;
+        
+    }
+    
+    .in {
+     display: grid;
+     grid-column: auto;
+     
+    }
+    .sus{
+        width: 70vw;
+    }
+    .links{
+        width: 70vw;
+    }
+
+    .anuncio {
+        color: aliceblue;
+        width: 85vw;
+        height: 45vh;
+    }
+    
+       .foto{
+    
+        width: 35vw;
+    
+       }
+
+
+img{
+        min-inline-size: -webkit-fill-available;
+        width: 0vw;
+    }
+dv{
+    color: #000;
+    width: 375vw;
+    background-image:url('file:///C:/Users/Laiara/Desktop/A.webp');
+    margin-top: 1vh;
+}
+h1{
+    font-size: 31vw;
+}
+p{
+    font-size: 10vw;
+}
+h2{
+    font-size: 15vw;
+
+}
+    
+
+   }
+
+

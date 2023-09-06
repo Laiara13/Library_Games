@@ -1,0 +1,48 @@
+/* animação de carregamento: status; analise */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .busca {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.div{
+    color:cornflowerblue;
+    margin: 0vh;
+    width: 73vw;
+    font-size: 3vw;
+}
+main {
+    margin: 0vw;
+    text-align: end;
+    width: 97vw;
+}
+input {
+    padding: 0.1vh;
+    width: 40vw;
+    outline-style: auto;
+    color: #FFF;
+    padding: 0.5vw;
+    border: 0vw;
+    background-color: #111111;
+    margin-bottom: 4vh;
+}
+input::placeholder{
+    color: #FFF;
+}
+
+div {
+    color: #FFF;
+    text-align: left;
+    font-size: medium;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.3vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
